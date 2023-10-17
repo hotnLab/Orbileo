@@ -51,4 +51,4 @@ Therefore, only the single gear version is released.
 Thanks for Orbiter Team & Voron Team And JaredC01
 
 
-License by GPL3 & CC BY-NC-SA 3.0 DEED
+**License by GPL3 & CC BY-NC-SA 3.0 DEED**
