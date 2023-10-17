@@ -38,9 +38,9 @@ Therefore, only the single gear version is released.
 
 따라서 싱글기어 버전만을 공개 합니다.
 
-프로젝트 오비터와 보론팀에 감사드립니다.
+프로젝트 오비터와 보론팀, JaredC01 에 감사드립니다.
 
 
 --------
 
-Thanks for Orbiter Team & Voron Team.
+Thanks for Orbiter Team & Voron Team And JaredC01
