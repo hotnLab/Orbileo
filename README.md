@@ -1,5 +1,7 @@
 # Orbileo
 --------
+![Assy](https://github.com/hotnLab/Orbileo/assets/148230653/c2953110-a85c-4cb2-97bb-97082475d926)
+
 Orbiter 2.0 built-in extruder inspired by Galileo 2 extruder
 
 This is Galileo 2’s Orbiter compatible mode.
@@ -36,6 +38,7 @@ After unloading the filament, a symptom of the gear not engaging was discovered.
 Therefore, only the single gear version is released.
 
 --------
+
 
 갈릴레오2 익스트루더를 보고, 동일한 유성 기어를 사용하는 오비터를 적용하기 위해 설계를 변경하여 공개 합니다.
 
