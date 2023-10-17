@@ -1,6 +1,10 @@
 # Orbileo
 --------
 Orbiter 2.0 built-in extruder inspired by Galileo 2 extruder
+
+This is Galileo 2’s Orbiter compatible mode.
+
+from https://github.com/JaredC01/Galileo2
 --------
 갈릴레오2 익스트루에서 영감을 받은 오비터2 적용 모드.
 .
