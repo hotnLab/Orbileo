@@ -49,6 +49,19 @@ Therefore, only the single gear version is released.
 
 ![605z](https://github.com/hotnLab/Orbileo/assets/148230653/4995f394-3c4a-4b91-ae4e-b682702bd59d)
 
+.
+
+.
+
+
+![image](https://github.com/hotnLab/Orbileo/assets/148230653/fedfc523-64bf-41b2-8fa5-a26708ea9e3c)
+
+- cable_mount.STL 는 케이블체인을 사용하지 않는 환경에서 케이블 고정을 위한 타이 고정부와,
+  
+  익스모터 정렬 문제를 보완하기 위하여 사용되는 옵션 입니다.
+
+  .
+  
 
 프로젝트 오비터와 보론팀, JaredC01 에 감사드립니다.
 
