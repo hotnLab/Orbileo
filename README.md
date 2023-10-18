@@ -71,4 +71,19 @@ Therefore, only the single gear version is released.
 Thanks for Orbiter Team & Voron Team And JaredC01
 
 
+
+-------
+Recommanded(추천) Printer.cfg
+
+#Orbileo
+
+microsteps: 32
+
+rotation_distance: 35.0
+
+gear_ratio: 75:10
+
+
+----
+
 **License by GPL3 & CC BY-NC-SA 3.0 DEED**
